@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pydata/sparse/commit/d63255057744331b96626a1f1c24504b3a3783cd",
       "git:hexsha": "d63255057744331b96626a1f1c24504b3a3783cd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T20:56:23.099294+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pydata/sparse/commit/49cdd7ea5e0a0388f952345131df65902218c36b",
